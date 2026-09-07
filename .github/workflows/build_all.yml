@@ -21,7 +21,6 @@ on:
   pull_request:
     branches:
      - main
-     - release/*
     paths:
      - 'deps/**'
      - 'deps_src/**'
